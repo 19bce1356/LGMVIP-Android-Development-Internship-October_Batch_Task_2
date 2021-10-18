@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "172149270842",
+    "project_id": "facedetectionapp-ml-1745d",
+    "storage_bucket": "facedetectionapp-ml-1745d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172149270842:android:6434762e2ddf6c45d24803",
+        "android_client_info": {
+          "package_name": "com.monark.faceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172149270842-132ukegde8emjfi7v9g1m4lcosjjdl67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLACx5vBXkoehitVA5cGYYa_Os_1apiec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172149270842-132ukegde8emjfi7v9g1m4lcosjjdl67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172149270842:android:bf3fe8734f23f3f6d24803",
+        "android_client_info": {
+          "package_name": "com.monark.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172149270842-132ukegde8emjfi7v9g1m4lcosjjdl67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLACx5vBXkoehitVA5cGYYa_Os_1apiec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172149270842-132ukegde8emjfi7v9g1m4lcosjjdl67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
